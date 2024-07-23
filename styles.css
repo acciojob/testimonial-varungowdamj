@@ -5,11 +5,6 @@ body {
     padding: 0;
 }
 
-h1 {
-    text-align: center;
-    margin: 20px 0;
-}
-
 .testimonial-container {
     padding: 20px;
     background-color: #f5f5f5;
@@ -22,7 +17,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.testimonial-text {
+.text {
     margin: 0;
     padding: 0;
 }
